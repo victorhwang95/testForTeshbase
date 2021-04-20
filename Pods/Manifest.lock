@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Cache (6.0.0)
+  - Imaginary (5.0.0):
+    - Cache (~> 6.0.0)
+  - Kingfisher (6.0.1)
+  - Lightbox (2.5.0):
+    - Imaginary (~> 5.0.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Kingfisher
+  - Lightbox
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cache
+    - Imaginary
+    - Kingfisher
+    - Lightbox
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  Imaginary: cf5e3a7dd6ab1dcbd47ba8ce5edf2307c4e99eb3
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  Lightbox: cc3d5124f024fa8197fd23f913160db1c61a1852
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 41dd31dd80ada23129600bea1fac214c3db5b664
+
+COCOAPODS: 1.10.1
